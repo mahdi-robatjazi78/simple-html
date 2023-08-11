@@ -1,0 +1,40 @@
+@font-face{
+    font-family:"Space Grotesk";
+    font-style: normal;
+    font-weight:400;
+    src:local("Space Grotesk"), url('./fonts/space-grotesk/SpaceGrotesk-Regular.ttf') format('truetype');
+}
+
+
+
+@font-face {
+    font-family: "Changa";
+    font-style:normal;
+    font-weight:400;
+    src:local("Changa"), url('./fonts/changa/Changa-Regular.ttf') format('truetype');
+}
+
+
+body{
+    background-color: black;
+}
+.title{
+    font-family:"Changa";
+    color:white;
+
+}
+
+.title-2{
+    font-family:"Changa";
+    color:white;
+}
+
+p{
+    font-family:"Space Grotesk";
+    color:#d1d1d1;
+}
+
+li {
+    font-family:"Space Grotesk";
+    color:#d1d1d1;
+}

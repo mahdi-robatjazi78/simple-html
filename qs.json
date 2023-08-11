@@ -1,0 +1,34 @@
+[
+    {
+      "question": "What does CSS stand for?",
+      "answer": "Cascading Style Sheets"
+    },
+    {
+      "question": "Explain the concept of 'cascading' in CSS.",
+      "answer": "Cascading in CSS refers to the process of determining the final style applied to an element when multiple conflicting styles are present. Styles can come from various sources, such as inline styles, internal stylesheets, and external stylesheets, and they cascade down based on specificity and source order."
+    },
+    {
+      "question": "What is the box model in CSS?",
+      "answer": "The box model in CSS describes the layout of elements as a set of rectangular boxes. It consists of content, padding, border, and margin. The total width/height of an element is the sum of these components."
+    },
+    {
+      "question": "Explain the 'position' property in CSS.",
+      "answer": "The 'position' property in CSS determines how an element is positioned within its containing element. It can take values like 'static', 'relative', 'absolute', 'fixed', and 'sticky'. Each value affects the positioning of the element differently."
+    },
+    {
+      "question": "What is the CSS 'float' property used for?",
+      "answer": "The 'float' property in CSS is used to create text or elements that wrap around another element. It's often used to create layouts where elements are floated to one side, allowing text or other content to flow around them."
+    },
+    {
+      "question": "Explain the concept of 'specificity' in CSS.",
+      "answer": "Specificity in CSS refers to the set of rules that determine which styles are applied to an element when there are conflicting styles. Specificity is calculated based on the type of selectors used, and more specific selectors take precedence over less specific ones."
+    },
+    {
+      "question": "What is a pseudo-class in CSS?",
+      "answer": "A pseudo-class in CSS is a keyword that specifies a special state of an element. For example, ':hover', ':active', and ':focus' are pseudo-classes that target elements when they are being hovered over, activated, or focused, respectively."
+    },
+    {
+      "question": "What is the 'box-sizing' property used for?",
+      "answer": "The 'box-sizing' property in CSS controls how the total width and height of an element are calculated. It can take values like 'content-box' (default) and 'border-box'. 'content-box' includes only the content, while 'border-box' includes padding and border in the total dimensions."
+    }
+  ]
