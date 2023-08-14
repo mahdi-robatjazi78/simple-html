@@ -61,3 +61,21 @@ li {
 .fa-text{
     font-family:"Yekan";
 }
+
+
+.row{
+    margin:1rem;
+}
+
+#lists{
+    display: flex;
+    justify-content: space-around;
+}
+#lists > div{
+    border: 1px solid red;
+    padding:10px 20px;
+}
+
+input [type = "email"]{
+    padding:10px;
+}
